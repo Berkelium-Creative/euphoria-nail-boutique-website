@@ -1,47 +1,139 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Euphoria Nail Boutique",
+  "tagline": "A nail studio reduced to its essential parts.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLENDALE · CALIFORNIA · 4.3 × 51",
+    "heading": "A nail studio. Reduced to its essential parts.",
+    "subheading": "Structured gel, builder-gel extensions, Russian manicures, and hand-painted minimalism. No upsells, no fillers, no surprises on the receipt.",
+    "ctaText": "Book a chair",
+    "ctaLink": "tel:8189550808",
+    "image": "https://images.unsplash.com/photo-1604654894386-e7ec4fdc1d70?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "The room",
+    "heading": "Four chairs. Daylight. Two questions before the polish.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Euphoria is a four-chair nail boutique in central Glendale. Owned and run by one team since 2018 with a small list of services priced in flat numbers — no per-finger upcharges, no surprise add-ons, no upsells.",
+      "We work k-beauty style: dry e-file prep, sealed sidewalls, cuticles cleaned not cut. Builder gel for extensions, structured gel for overlays, freehand art when you ask.",
+      "Two questions before any polish goes down: how long do you need it to last, and what kind of week are you having. Everything after that follows from the answers."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Signature Gel",
+      "description": "K-beauty dry prep, structured gel in your colour, sealed sidewalls. Wears clean for twenty-one days.",
+      "price": "$58"
+    },
+    {
+      "title": "Builder Gel Extensions",
+      "description": "Soft-square, almond, or coffin. Sculpted on the natural nail. Gentle removal on rebook.",
+      "price": "from $92"
+    },
+    {
+      "title": "Russian Manicure",
+      "description": "Dry e-file based cuticle reset. The cleanest sidewall you'll find; longest-wearing prep we offer.",
+      "price": "$85"
+    },
+    {
+      "title": "Freehand Art",
+      "description": "Hand-painted minimalist design — line art, micro-french, single-stroke detail. By the nail.",
+      "price": "from $12 / nail"
+    },
+    {
+      "title": "Russian Spa Pedicure",
+      "description": "Dry e-file pedicure with full callus refinement and structured gel. Forty-five minutes.",
+      "price": "$78"
+    },
+    {
+      "title": "Soak-Off & Strengthen",
+      "description": "Acetone-wrap removal, strengthening treatment, buff and prep. Thirty minutes flat.",
+      "price": "$28"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Maya O.",
+      "rating": 5,
+      "context": "Three-week regular",
+      "text": "The Russian manicure is the closest a salon has come to making my nails look untouched. Sets hold for three weeks, removal is gentle, and the room is the kind of quiet I pay for."
+    },
+    {
+      "name": "Yana R.",
+      "rating": 4,
+      "context": "Builder gel client",
+      "text": "Booked builder gel extensions before a trip. Eight weeks later the set still has no lift and removal took twenty minutes. Best technique I've had in LA."
+    },
+    {
+      "name": "Sona P.",
+      "rating": 5,
+      "context": "First-time art",
+      "text": "Asked for a tiny line-art design and the technician planned it in seconds, then painted it in one stroke per nail. Walked out with the cleanest minimal set I have ever had."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 955-0808",
+    "email": "hello@euphorianail.com",
+    "address": "417 N Brand Blvd, Glendale, CA 91203",
+    "mapEmbedQuery": "Euphoria Nail Boutique, 417 N Brand Blvd, Glendale, CA 91203",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "10:00 AM – 7:00 PM",
+      "Tuesday": "10:00 AM – 7:00 PM",
+      "Wednesday": "10:00 AM – 7:00 PM",
+      "Thursday": "10:00 AM – 7:00 PM",
+      "Friday": "10:00 AM – 7:00 PM",
+      "Saturday": "10:00 AM – 6:00 PM",
+      "Sunday": "11:00 AM – 5:00 PM"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Euphoria Nail Boutique — Modern minimalist nail studio in Glendale",
+    "description": "Glendale nail boutique with Russian manicure, structured gel, builder extensions, and hand-painted minimalist art. Flat prices, no add-ons.",
+    "keywords": [
+      "Glendale nail salon",
+      "Russian manicure Glendale",
+      "structured gel Glendale",
+      "modern minimalist nails",
+      "Brand Blvd nail salon"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#000000",
+    "accentColor": "#EA580C",
+    "fontFamily": "khand-inter-sourcecode"
+  },
+  "designSystem": {
+    "searchQuery": "modern brutalist white pure black safety orange concrete minimal nail boutique",
+    "styleName": "Modern Brutalist White (pure flat)",
+    "pattern": "Hero + Features + CTA (single-column flat brutalist)",
+    "palette": {
+      "primary": "#000000",
+      "secondary": "#57534E",
+      "cta": "#000000",
+      "accent": "#EA580C",
+      "background": "#FFFFFF",
+      "text": "#000000",
+      "muted": "#57534E",
+      "border": "#000000",
+      "surface": "#F5F4F2"
+    },
+    "typography": {
+      "heading": "Khand",
+      "body": "Inter",
+      "label": "Source Code Pro",
+      "mood": "brutalist, modernist, pure-white, safety-orange-signal, condensed industrial display"
+    },
+    "moves": [
+      "Pure WHITE BG with 2px BLACK section borders — true flat brutalism, zero shadows",
+      "Single safety-orange signal — only used on /// mono labels, hero accent word, and footer wordmark dot",
+      "Massive Khand display headline taking the full viewport — clamp 3.5rem to 11rem",
+      "Hero photo desaturated to true grayscale, 2px black border, square aspect — no rounding",
+      "Stats on a pure BLACK slab with safety-orange labels and white Khand numerals",
+      "Menu is a flat ordered list with /01 mono indices in safety orange — no cards, hairline rules only",
+      "Reviews on full pure-black slab in a 3-column grid with WHITE 2px borders between each",
+      "Visit map filter: grayscale(0.9) contrast(1.05) — monochrome utility map",
+      "Closing CTA on safety orange with BLACK pill button — bracket-styled `[ CALL · phone ]`",
+      "Footer credits 'SET IN KHAND + SOURCE CODE PRO'"
+    ]
   }
 }
